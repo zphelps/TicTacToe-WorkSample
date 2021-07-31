@@ -1,2 +1,2 @@
 # TicTacToe-WorkSample
-I created this simple TicTacToe game as a project in the AP Computer Science A course that I am currently taking. 
+Simple TicTacToe project from APCS A course taken during the 2019-2020 school year.
